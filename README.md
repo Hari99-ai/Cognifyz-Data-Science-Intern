@@ -1,7 +1,7 @@
-# COGNIFY
-Data Science Internship Tasks by @COGNIFY Technologies.
+# COGNIFYZ
+Data Science Internship Tasks by @COGNIFY Technologies🎉.
 
-Role Data Science Intern
+Role Data Science Intern❤️
 
 The role I've involved:
 
