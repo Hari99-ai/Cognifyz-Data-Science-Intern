@@ -60,3 +60,6 @@ Determine if there are any specific cuisines that tend to receive higher ratings
 Create visualizations to represent the distribution of ratings using different charts (histogram, bar plot, etc.).
 Compare the average ratings of different cuisines or cities using appropriate visualizations.
 Visualize the relationship between various features and the target variable to gain insights.
+
+
+**https://www.linkedin.com/in/hariom-singh-066368270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app**
